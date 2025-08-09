@@ -1,0 +1,13 @@
+name = "Project 404"
+author = "Irgendwer"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "846f9a0dfc8d1b5694dda2d466c2891a95b22f683ab3381fa0ce8595d546bbce"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
