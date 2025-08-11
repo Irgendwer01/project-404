@@ -1,0 +1,13 @@
+name = "Lazy AE2 Tweaks"
+filename = "Lazy Ae2 Tweaks-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b8012864556c35770df033bb3d5c52481214e97d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6646867
+project-id = 1285924

@@ -1,0 +1,13 @@
+name = "HoloInventory UEL"
+filename = "HoloInventory-1.12.2-2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c402a2699b2785db5d52867ea724deb6a9eb702f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6267274
+project-id = 1213826

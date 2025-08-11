@@ -1,0 +1,13 @@
+name = "Euphoria Patches"
+filename = "EuphoriaPatcher-1.6.5-r5.5.1-forgeLegacy.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c4d3272c622c9af2fc3499289da45369dc011ab6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6653761
+project-id = 915902
